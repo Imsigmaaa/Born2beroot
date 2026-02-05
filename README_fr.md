@@ -117,13 +117,6 @@ sudo crontab -e
 
 ---
 
-## Checklist de validation
-- [ ] Partitionnement LVM chiffré
-- [ ] Politique de mot de passe appliquée
-- [ ] SSH sur port 4242, root désactivé
-- [ ] UFW actif, seul port 4242 ouvert
-- [ ] sudo configuré avec restrictions
-- [ ] monitoring.sh exécuté toutes les 10 min
 
 # Resources
 
